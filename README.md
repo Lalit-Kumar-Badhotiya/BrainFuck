@@ -1,4 +1,3 @@
-
 # Hello BrainFuck!
 
 The legendary language that fuck your brain.
